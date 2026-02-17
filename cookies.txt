@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hubspot.com	TRUE	/	FALSE	1999999999	_cfuvid	W6yamAH2rLVtv9DVOoZoQMJHctaKIQPcr_fX2fXkipE-1771249035343-0.0.1.1-604800000
+.www.campaigncreators.com	TRUE	/	FALSE	1999999999	__cf_bm	4r1kFfB0KAnOlNHfPZs370sWXlK4DwQraOmKUeBilXc-1771249523-1.0.1.1-MWEkHyj73UY5TbwIzeOFPhF_qeLlQIWE8aMBnksNR1ZH6RqeU6Ye7tk7QP1Nh7lzwT65CVnqoij1u6l8KHsX1xVlJkBAv7r2Dq.Xg9AkQ4g
+.www.campaigncreators.com	TRUE	/	FALSE	1999999999	_cfuvid	Oz0Nzl6FQcZ_X9YcPYNZKgpVy7Avt9FJYeSKBPH9hN0-1771249523335-0.0.1.1-604800000
+www.campaigncreators.com	TRUE	/	FALSE	1999999999	SameSite	None
+.hubspot.com	TRUE	/	FALSE	1999999999	__cf_bm	jiK9j6PhkaNgHmltYXG0TmTXwp7iGBoSK49_iMshji4-1771305034-1.0.1.1-PRCODGfd6q3OBPPGCkXLnr1VhZxgm9Jeo9QCyU4ZCO1sDwV0gZqQ7ThVdqEp17SSwnN0ecTuoie4mjFyvKMxfORLVJghxs4.Qfl5ULYa0vs
+track-na2.hubspot.com	TRUE	/	FALSE	1999999999	SameSite	None
+.www.sasken.com	TRUE	/	FALSE	1999999999	__cf_bm	1sAcXoRDitxij21qPlZQd9dYsUdupyNTjnnnvLYCa3A-1771305055-1.0.1.1-JjxHFlabjpYTyXy2YebpuzkEqN2WW1soLnkNpkbXciXRTAUg1FvqTWTGmMurSqTux4uh2PF9RwMlIhCDO_BRtqxSW7Bw4adVGVbjMn6hHxQ
+.www.sasken.com	TRUE	/	FALSE	1999999999	_cfuvid	Z.XCKDppnA5MBegwyGk2ZWG3CGIl14tcooFRfX.mB78-1771305055203-0.0.1.1-604800000
+www.sasken.com	TRUE	/	FALSE	1999999999	SameSite	None
+
